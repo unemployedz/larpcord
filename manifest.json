@@ -1,0 +1,15 @@
+{
+  "name": "LarpCord",
+  "description": "Client-side badges and custom username. Only you can see them.",
+  "authors": [
+    {
+      "name": "unemployedz",
+      "id": "0"
+    }
+  ],
+  "main": "dist/index.js",
+  "hash": "e2f1a9ccaf581bcd07a53558858a6f5f44a3976cd8951c7d576ab4b592b5d9c4",
+  "vendetta": {
+    "icon": "ic_person"
+  }
+}
