@@ -3,6 +3,6 @@
   "description": "Client-side badges (UI inject + flags) and custom username. Only you see them.",
   "authors": [{"name": "unemployedz"}],
   "main": "index.js",
-  "hash": "ff95828baae765dd058e8bb434a05581724363a5c078da164bf63c84437b544c",
+  "hash": "e2f1a9ccaf581bcd07a53558858a6f5f44a3976cd8951c7d576ab4b592b5d9c4",
   "vendetta": {"icon": "ic_person"}
 }
